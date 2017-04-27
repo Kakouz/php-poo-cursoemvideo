@@ -1,0 +1,1 @@
+Aula somente teórica e com o setup do desenvolvimento em php.
