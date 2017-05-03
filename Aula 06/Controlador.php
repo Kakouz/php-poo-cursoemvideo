@@ -12,6 +12,5 @@
    public function desligarMudo();
    public function play();
    public function pause();
-
  }
  ?>
